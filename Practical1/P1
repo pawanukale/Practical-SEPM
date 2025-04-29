@@ -1,1 +1,89 @@
-.
+# Gym Management System
+
+## Objective
+To design and develop a Gym Management System that simplifies the management of a gym’s day-to-day operations like registration, subscription, attendance, and trainer allocation using a digital platform.
+
+## Introduction
+In today’s fast-paced world, fitness has become a necessity. With increasing numbers of people joining gyms, it becomes important for gym owners to maintain and manage records efficiently. Traditional record-keeping involves manual processes that are prone to errors, data loss, and mismanagement.
+
+The Gym Management System provides a computerized solution to these problems. It maintains all member details, subscription plans, trainer allocations, and attendance records in a centralized system. This helps staff and management deliver better services with improved accuracy and efficiency.
+
+## Existing System
+In the existing system, gym records are maintained using pen and paper or in basic spreadsheets. This approach lacks:
+
+- Real-time data access
+- Automated billing and reminders
+- Centralized and secure storage
+- Ease in updating or searching data
+- Proper attendance and trainer tracking
+
+Manual systems are also time-consuming and difficult to manage as the number of members grows.
+
+## Proposed System
+The proposed Gym Management System overcomes all the drawbacks of the existing manual system. It is a web-based application that provides an easy-to-use interface for both the gym staff and members.
+
+### Features of the Proposed System:
+- Easy registration and login
+- Adding new members and managing member profiles
+- Subscription management with package details
+- Assigning trainers and managing their schedules
+- Tracking member attendance
+- Generating reports and invoices
+- Secure database with backup
+
+This system helps gym staff perform operations faster and with better accuracy, while also giving members a professional experience.
+
+## System Requirements
+
+### Software Requirements:
+- **Frontend:** React.js
+- **Backend:** Node.js and Express.js
+- **Database:** MongoDB
+- **Development Tools:** VS Code, Git, Postman
+- **Browser:** Google Chrome or any modern browser
+
+### Hardware Requirements:
+- **Processor:** Intel i3 or higher
+- **RAM:** 4 GB or more
+- **Hard Disk:** 250 GB minimum
+- **Internet Connection**
+
+## Modules
+
+### Admin Module:
+- Add/update/delete member details
+- Assign trainers
+- View reports
+- Manage subscription packages
+
+### Member Module:
+- View profile and subscription
+- Track attendance
+- View assigned trainer and schedule
+
+### Trainer Module:
+- View assigned members
+- Maintain workout schedules
+- Give performance feedback
+
+### Subscription Module:
+- Add/edit/delete plans
+- Payment tracking and invoice generation
+- Plan renewal alerts
+
+### Attendance Module:
+- Record member check-ins
+- View attendance history
+- Generate monthly attendance report
+
+## Advantages
+- Saves time and reduces human error
+- Centralized data management
+- Increases operational efficiency
+- Easy to use and maintain
+- Real-time updates and notifications
+- Enhances the user experience for both staff and members
+
+## Conclusion
+The Gym Management System provides a simple, efficient, and user-friendly solution to manage gym activities. It reduces the workload of the staff, ensures better service delivery, and supports digital transformation of traditional gyms. With features like attendance tracking, trainer management, and report generation, this system is ideal for modern fitness centers.
+
